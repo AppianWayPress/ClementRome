@@ -17,5 +17,5 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
-* [Diglot (PDF)](diglot/diglot-Homilies.pdf)
-* [ePub](epub/epub-Homilies.epub)
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/ClementRome/main/diglot/diglot-Homilies.pdf)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/ClementRome/main/epub/epub-Homilies.epub)
